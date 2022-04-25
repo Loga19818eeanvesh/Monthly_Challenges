@@ -1,0 +1,17 @@
+{% extends 'challenges/base/base.html' %}
+
+{% load static %}
+
+{% block title %} Page Not Found {% endblock %}
+
+{% block css_files %} <link rel="stylesheet" href="{% static 'challenges/includes/header.css' %}"> {% endblock %}
+  
+{% block body %}
+
+    {% include 'challenges/includes/header.html' %}
+
+    <h1>Page Not Found!</h1>
+    <h2>Sorry we could not find a matching page!</h2>
+    <p>This month is not supported! or there may be typo in month spelling, Please check!</p>
+
+{% endblock %}
