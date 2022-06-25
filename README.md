@@ -1,6 +1,6 @@
 # Monthly Challenges
 
-Website to view monthly challenges
+Users can manage their monthly challenges
 
 ## Tools/Technologies used
 Django
