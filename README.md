@@ -7,9 +7,9 @@ Django
 
 ## Snapshots
 
-![Home page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-04-25%20at%2011.05.02%20AM.png)
+![Home page](https://github.com/SaiAnveshKanchi/Images/blob/main/IMG_20220625_062513.jpg)
 
-![challenges page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-04-25%20at%2011.05.17%20AM.png)
+![challenges page](https://github.com/SaiAnveshKanchi/Images/blob/main/IMG_20220625_062524.jpg)
 
-![404 page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-04-25%20at%2011.06.01%20AM.png)
+![404 page](https://github.com/SaiAnveshKanchi/Images/blob/main/IMG_20220625_062538.jpg)
 
